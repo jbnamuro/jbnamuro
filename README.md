@@ -1,16 +1,25 @@
-## Hi there 👋
+Hey there 👋
+I’m Jabari Namuro, a Computer Science student at the University of Windsor based in Ontario, Canada.
 
-<!--
-**jbnamuro/jbnamuro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a full-stack developer currently looking for internship opportunities where I can contribute to meaningful projects and continue growing my technical toolkit.
 
-Here are some ideas to get you started:
+I enjoy the challenge of building everything from responsive web interfaces to computer vision systems. Most of my work involves bridging the gap between clean frontend design and efficient backend logic.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tools & Tech
+Frontend: React, HTML, CSS/SCSS, JavaScript, GSAP for animations
+
+Backend & Logic: Python, Flask, C++, SQL, Java
+
+Specialized: OpenCV and YOLOv8 for computer vision projects
+
+Tools: Git, VS Code, Figma
+
+A Bit About Me
+
+🏋️‍♂️ Gym Enthusiast: I'm a regular at the gym and love lifting heavy.
+
+🎮 Gaming: LittleBigPlanet is my favorite game of all time, nothing beats the creativity of that world.
+
+📺 Anime: Big fan of anime, favorites are Hunter x Hunter and Frieren.
+
+💡 Philosophy: I believe in building software that is simple, useful, and easy to understand.
