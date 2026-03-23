@@ -6,6 +6,7 @@ I’m a full-stack developer currently looking for internship opportunities wher
 I enjoy the challenge of building everything from responsive web interfaces to computer vision systems. Most of my work involves bridging the gap between clean frontend design and efficient backend logic.
 
 Tools & Tech
+
 Frontend: React, HTML, CSS/SCSS, JavaScript, GSAP for animations
 
 Backend & Logic: Python, Flask, C++, SQL, Java
@@ -22,4 +23,4 @@ A Bit About Me
 
 📺 Anime: Big fan of anime, favorites are Hunter x Hunter and Frieren.
 
-💡 Philosophy: I believe in building software that is simple, useful, and easy to understand.
+💡 Philosophy: Good software is invisible, it just helps you get things done.
