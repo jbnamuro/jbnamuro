@@ -7,7 +7,7 @@ I enjoy the challenge of building everything from responsive web interfaces to c
 
 Tools & Tech
 
-Frontend: React, HTML, CSS/SCSS, TypeScript JavaScript, GSAP for animations
+Frontend: React, HTML, CSS/SCSS, TypeScript, JavaScript, GSAP for animations
 
 Backend & Logic: Python, Flask, C++, SQL, Java
 
